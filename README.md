@@ -36,12 +36,12 @@ go run main.go
 
 ## CRUD Endpoints
 1. PRODUCTS
-/products/add - GET & POST
-/products/detail?id - GET
-/products/edit?id - GET & POST
-/products/delete?id - POST
+* /products/add - GET & POST
+* /products/detail?id - GET
+* /products/edit?id - GET & POST
+* /products/delete?id - POST
 
 3. CATEGORIES
-/categories/add - GET & POST
-/categories/edit - GET & POST
-/categories/delete - POST
+* /categories/add - GET & POST
+* /categories/edit - GET & POST
+* /categories/delete - POST
