@@ -6,7 +6,7 @@
 2. Golang
 3. External packages :
 * XAMPP
-* Bootsrap v5.3
+* Bootstrap v5.3
 
 ## Setting Port :
 ```
